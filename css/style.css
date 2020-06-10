@@ -163,7 +163,7 @@ header .header-inner .clearfix .main_menu_cont > .main-menu > li:nth-child(2) {
 }
 header .header-inner .clearfix .main_menu_cont > .main-menu > li:nth-child(2):hover .sub-menu {
   display: block;
-  transition: 0.3;
+  transition: 0.3s;
 }
 header .header-inner .clearfix .main_menu_cont > .main-menu > li > a {
   color: #fff;
