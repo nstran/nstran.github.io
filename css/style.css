@@ -224,7 +224,7 @@ header .header-inner .clearfix .main_menu_cont > .main-menu > li > .sub-menu .me
   text-transform: uppercase;
   font-weight: 600;
   text-align: left;
-  font-size: 14px;
+  font-size: 12px;
 }
 header .header-inner .clearfix .main_menu_cont > .main-menu > li > .sub-menu .menu-item.-has-children > a:hover {
   text-decoration: none;
