@@ -221,10 +221,9 @@ header .header-inner .clearfix .main_menu_cont > .main-menu > li > .sub-menu .me
 header .header-inner .clearfix .main_menu_cont > .main-menu > li > .sub-menu .menu-item.-has-children > a {
   color: #111;
   padding: 8px 11px;
-  text-transform: uppercase;
   font-weight: 600;
   text-align: left;
-  font-size: 12px;
+  font-size: 14px;
 }
 header .header-inner .clearfix .main_menu_cont > .main-menu > li > .sub-menu .menu-item.-has-children > a:hover {
   text-decoration: none;
