@@ -1525,7 +1525,7 @@ body {
   padding: 0 15px;
 }
 .featured-products .product-carousel li .product-box {
-  margin-bottom: 0px;
+  margin-bottom: 5px;
   border: 1px solid #cccdcd;
   color: #525252;
 }
